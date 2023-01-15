@@ -43,15 +43,15 @@ $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbdbName);
 # Tecnologias utilizadas
 ## Back end
 - PHP
-- APACHE
-- XAMPP
 
 ## Front end
 - HTML / CSS
 
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+- Back end: 
+- APACHE
+- XAMPP
+- Front end web: 
 - Banco de dados: MySQL
 
 
