@@ -5,8 +5,14 @@
 # Sobre o projeto 
 >Elaboração de ficha de cadastro para simulação de financiamento
 
+![SQL](https://github.com/JoseOl1ve1ra/formulario-simula-o/blob/main/assets/SQL.jpg.jpeg)
 
->Como executar o projeto
+
+
+
+
+>Como executar o projeto:
+
 >MySQL Workbench 
 >localhost/formulario/config.php
 
